@@ -37,5 +37,8 @@ All blank values with numeric data type was replaced with the average number of 
 ## Pivot Table Visual
 ![](PIVOT.png)
 
+## Medical Students Analysis Chart
+![](Charts.png)
+
  
 
