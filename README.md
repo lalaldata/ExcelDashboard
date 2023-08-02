@@ -29,17 +29,11 @@ The following Microsoft excel skills were incorporated-
 - Sorting Data
 - Data cleaning
 - Filling of blank cells
-Blank values in Age column was replaced with the average age value
+All blank values with text data type was replaced with mode text value of their fields.
+All blank values with numeric data type was replaced with the average number of their respective fields.
 
-Blank values in Height column was replaced with the average height value
+![](data.png)
 
-Blank values in Blood type column was replaced with a mixture of Ab, B and O
-
-Blank values in BMI column was replaced with the average BMI value
-
-Blank values in temperature column was replaced with the average temperature value
-
-Blank values in blood pressure column was replaced with the average temperature value
 
 
  
