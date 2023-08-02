@@ -32,7 +32,7 @@ The following Microsoft excel skills were incorporated-
 All blank values with text data type was replaced with mode text value of their fields.
 All blank values with numeric data type was replaced with the average number of their respective fields.
 
-![](data.png)
+![](Data.png)
 
 
 
