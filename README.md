@@ -34,7 +34,8 @@ All blank values with numeric data type was replaced with the average number of 
 
 ![](Data.png)
 
-
+## Pivot Table Visual
+![](PIVOT.png)
 
  
 
