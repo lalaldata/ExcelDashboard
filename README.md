@@ -1,3 +1,3 @@
 # Medical Students Analysis
 
-![](Frontpage.png)
+![](FRONTPAGE.png)
